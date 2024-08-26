@@ -1,22 +1,24 @@
 
 # Project Title
 
-Simple MCQ Generater With OpenAI
+Enhanced Q&A Chatbot with OpenAI
 
 
-- Generete  the MCQ's Question if we give the topics related to the Data Science
+- ChatBot it is used to provide the information based on your query.
+- It had include OpenAI diffrent Models like gpt-4o, gpt-4-turbo ,gpt-4
 - This is Deployed in the Streamlit web app
-- The Output is Attached here.
+- The Output Screent Image  is Attached here.
 ## Deployment
 
 To deploy this project run
 
 ```bash
-  streamlit run i_app.py
+  streamlit run Open_AI_app.py
 ```
+
 
 
 ## Demo
 
-1.Simple MCQ Generater With OpenAI/Output_img.png
+2.Enhanced Q&A Chatbot with OpenAI/Output_img.png
 
