@@ -1,4 +1,5 @@
 langchain
+python-dotenv
+ipykernel
 openai
-langchain_community
 streamlit
