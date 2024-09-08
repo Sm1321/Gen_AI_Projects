@@ -1,1 +1,2 @@
-# Gen_AI_Projects
+#### RAG Based Document Q&A With Groq And LLama3 Model
+
