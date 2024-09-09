@@ -8,7 +8,7 @@
 To deploy this project run
 
 ```bash
-  streamlit run i_app.py
+  streamlit run filename.py
 ```
 
 
