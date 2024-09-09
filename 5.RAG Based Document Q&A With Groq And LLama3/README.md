@@ -2,7 +2,7 @@
 
 
 
-
+- Used the Groq Api LPU Inference and used the LLama3 Model. 
 ## Deployment
 
 To deploy this project run
