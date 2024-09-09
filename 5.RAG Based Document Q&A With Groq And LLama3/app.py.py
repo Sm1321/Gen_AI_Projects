@@ -24,7 +24,7 @@ os.environ['GROQ_API_KEY'] = os.getenv("GROQ_API_KEY")
 
 ###Langsmith Tracking
 os.environ['LANGCHAIN_API_KEY'] = os.getenv("LANGCHAIN_API_KEY")
-os.environ['LANGCHAIN_PROJECT'] = "Q&A ChatBot With Groq(pratice)"
+os.environ['LANGCHAIN_PROJECT'] = "Q&A ChatBot With Groq(pratice)"  ##Creating the New Project in Langsmith 
 os.environ['LANGCHAIN_TRACING_V2'] = "true"
 
 
@@ -45,7 +45,7 @@ prompt = ChatPromptTemplate.from_template(
     """
 )
 
-
+#session state 
 def create_vector_embedding():
     if "vectors" not in st.session_state:
         st.session_state.embeddings = OpenAIEmbeddings()
