@@ -2,7 +2,8 @@
 
 
 
-- Used the Groq Api LPU Inference and used the LLama3 Model. 
+- Used the Groq API  LPU Inference and used the LLama3 Model.
+- Both Are the OpenSource Models. 
 ## Deployment
 
 To deploy this project run
