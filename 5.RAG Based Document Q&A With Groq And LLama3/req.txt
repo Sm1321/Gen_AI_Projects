@@ -1,5 +1,9 @@
 langchain
+streamlit
 python-dotenv
+pandas
+openai
+langchain-groq
 ipykernel
 langchain-community
 pypdf
@@ -15,10 +19,7 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma
 duckdb
-pandas
-openai
-langchain-groq
-streamlit
+
 
 
 
