@@ -25,11 +25,12 @@ Success Criteria:
 
 
 3. Approach
-To achieve the project objectives, we developed a real-time Q&A generator system utilizing:
+- To fulfill the project objectives, a real-time Q&A generator system was developed using the following advanced technologies:
+  - Gemini-Pro: A generative AI model that enhances response quality and contextual relevance.
+  - LangChain: A framework for integrating language models that simplifies document processing and question answering.
+  -  Google Generative AI Embeddings: Employed for efficient similarity searches through embedding text into dense vectors.
 
-Gemini-Pro: A generative AI model that enhances the quality and context of responses.
-LangChain: A framework that simplifies the integration of language models for various tasks, including document processing and question answering.
-Google Generative AI Embeddings: Used for embedding text into dense vectors for efficient similarity search.
+
 4. Technologies Used
 LangChain: For building chains of actions and integrating multiple language models.
 Generative AI: To generate natural language responses and content.
