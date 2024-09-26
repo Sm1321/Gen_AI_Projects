@@ -1,9 +1,28 @@
 ### Project Title: AI-Enhanced Q&A Content Generator and Chatbot
-1. Business Problem
-Manual generation of course Q&A content is time-consuming and inefficient. Educators often spend a significant amount of time creating question and answer sets for various topics, which can detract from their primary teaching responsibilities.
+Project Summary: Automated Content Generation for University Courses
 
-2. Objective
-The primary objective of this project is to automate the Q&A creation process while minimizing plagiarism. By leveraging advanced AI technologies, the goal is to provide an efficient solution for educators to generate unique and relevant Q&A content quickly.
+
+Business Problem:
+
+- Universities face a significant challenge in generating high-quality, on-demand content, particularly questions for various courses. The manual creation of this content is not only time-consuming but also labor-intensive, diverting educators' focus from their primary teaching responsibilities.
+
+Business Objective:
+
+- The project's primary aim is to automate the Q&A creation process, maximizing the quality of generated content while minimizing the time required for its production.
+
+Business Constraint:
+
+A critical constraint of this project is to minimize plagiarism in the generated content, ensuring that all questions are unique and original.
+
+Success Criteria:
+
+- Business Success Criteria: Achieve a reduction in content generation time by up to 80%.
+
+- ML Success Criteria: Maintain a duplication rate of generated questions at less than 5%.
+
+- Economic Success Criteria: Increase revenue from online-based courses by 15% in the first semester following implementation.
+
+
 
 3. Approach
 To achieve the project objectives, we developed a real-time Q&A generator system utilizing:
