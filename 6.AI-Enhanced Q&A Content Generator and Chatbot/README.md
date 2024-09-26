@@ -12,7 +12,7 @@ Business Objective:
 
 Business Constraint:
 
-A critical constraint of this project is to minimize plagiarism in the generated content, ensuring that all questions are unique and original.
+- A critical constraint of this project is to minimize plagiarism in the generated content, ensuring that all questions are unique and original.
 
 Success Criteria:
 
