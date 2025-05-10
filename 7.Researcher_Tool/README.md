@@ -1,5 +1,7 @@
-# 1. Advance_NLP_Course_LIVE
-- This notes and Ipynb are taken from the sunny Savita and Krish naik Academy Live Classes
-- All credits goes to sunny Savita sir.
-- I have updated this Repo and added all the files
-- Added the Langchain Files and will update more
+### Researcher Tool
+- This streamlit app, has the select option to clikec on the showen reserch paper and get the result as the summary
+- This also have the summary in form of 3 ways as showen in the Streamli UI
+
+
+
+  
