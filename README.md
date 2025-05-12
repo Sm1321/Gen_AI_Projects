@@ -4,6 +4,13 @@
 
 
 
+##### To create a Enironment
+```
+ conda create -p env python=3.10 -y
+```
+
+
+
 ## Deployment
 
 To deploy this project run
